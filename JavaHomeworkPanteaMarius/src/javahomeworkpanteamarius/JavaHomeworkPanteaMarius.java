@@ -20,3 +20,4 @@ public class JavaHomeworkPanteaMarius {
         String username = (scan.nextLine());
         System.out.println("Your name is " + username);
     }
+}
